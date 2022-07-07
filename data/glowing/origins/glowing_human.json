@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"glowing:glowing_effect"
+	],
+	"icon": "minecraft:glowstone",
+	"order": 9,
+	"impact": 1,
+	"name": "Glowing Human",
+	"description": "You've somehow evolved to be forever glowing; otherwise, you're the same as a human"
+}
