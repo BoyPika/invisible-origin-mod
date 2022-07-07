@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"invisible:invisible_skin"
+	],
+	"icon": "minecraft:barrier",
+	"order": 10,
+	"impact": 1,
+	"name": "Invisible Human",
+	"description": "You've somehow gained permanent invisibility; otherwise, you're the same as a human."
+}
